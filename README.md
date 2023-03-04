@@ -7,7 +7,7 @@ This module gives you the possibility to quickly collect information about acces
 
 ### Installation
 1. Run `./build.sh` in the wigle directory
-2. Upload the `dist/wigle` directory onto your WiFi Pineapple
+2. Upload the `dist/wigle` directory onto your WiFi Pineapple at `/pineapple/modules/`
 
 ### Preview
 https://user-images.githubusercontent.com/79598596/219944799-4afb4a57-fb41-4000-a15a-d6853261200d.mov
