@@ -5,9 +5,13 @@ This module gives you the possibility to quickly collect information about acces
 
 *As soon as my pull request is accepted, this module will be available in [Hak5's official module repository](https://github.com/hak5/pineapple-modules) and should be available for download directly from the web interface of the WiFi Pineapple.*
 
-### Installation
+### Compile it yourself...
 1. Run `./build.sh` in the wigle directory
 2. Upload the `dist/wigle` directory onto your WiFi Pineapple at `/pineapple/modules/`
+
+### Or use the pre-compiled folder at [releases](https://github.com/90N45-d3v/WiGLE-Pineapple-MK7-Module/releases)
+1. Unzip the [latest version](https://github.com/90N45-d3v/WiGLE-Pineapple-MK7-Module/releases/latest)
+2. Upload the directory onto your WiFi Pineapple at `/pineapple/modules/`
 
 ### Preview
 https://user-images.githubusercontent.com/79598596/219944799-4afb4a57-fb41-4000-a15a-d6853261200d.mov
